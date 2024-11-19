@@ -1,5 +1,5 @@
-# 💫 About Me:
-write in more detail<br>I'm Kaushal Prakash, currently pursuing a B.Techin Information Science and Engineering (ISE). As a dedicated full-stack web developer, I have a strong passion for both frontend and backend technologies. My academic journey has equipped me with a solid foundation in computer science principles, while my hands-on experience with various web development projects has honed my skills in creating robust, user-friendly applications. I thrive on solving complex problems and continuously learning about new technologies to stay at the forefront of the ever-evolving tech landscape. Beyond coding, I enjoy collaborating with peers, sharing knowledge, and contributing to meaningful projects that make a positive impact. 🌐👨‍💻
+💫 About Me:
+<br>I'm Kaushal Prakash, currently pursuing a B.Techin Information Science and Engineering (ISE). As a dedicated full-stack web developer, I have a strong passion for both frontend and backend technologies. My academic journey has equipped me with a solid foundation in computer science principles, while my hands-on experience with various web development projects has honed my skills in creating robust, user-friendly applications. I thrive on solving complex problems and continuously learning about new technologies to stay at the forefront of the ever-evolving tech landscape. Beyond coding, I enjoy collaborating with peers, sharing knowledge, and contributing to meaningful projects that make a positive impact. 🌐👨‍💻
 
 
 ## 🌐 Socials:
