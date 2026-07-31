@@ -19,13 +19,6 @@ I believe in writing clean code, learning continuously, and shipping real produc
 * 🌍 Contribute to meaningful projects & open-source
 
 ---
-  
-
-## 🌐 Socials:
-<div align="center">
-  
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devshadow17@gmail.com) 
-</div>
 
 # 💻 Tech Stack:
 <div align="center">
