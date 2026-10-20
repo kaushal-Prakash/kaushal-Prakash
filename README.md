@@ -1,4 +1,4 @@
-# ⚡ KAUSHAL PRAKASH
+# KAUSHAL PRAKASH
 
 <div align="center">
 
@@ -26,20 +26,20 @@
 
 ---
 
-## 🧬 `whoami`
+## `whoami`
 
-- 🧠 Exploring AI, machine learning, and intelligent applications.
-- ⚙️ Building scalable backends and modern web experiences.
-- 🏆 Flipkart GRiD 8.0 — National Runner-Up, Software Development Track.
-- 🌟 Google India's The Big Code 2026 — All India Rank 6.
-- 📚 Selected for Amazon ML Summer School 2026.
-- 🎓 Information Science & Engineering, NIE Mysuru.
+- Exploring AI, machine learning, and intelligent applications.
+- Building scalable backends and modern web experiences.
+- Flipkart GRiD 8.0 — National Runner-Up, Software Development Track.
+- Google India's The Big Code 2026 — All India Rank 6.
+- Selected for Amazon ML Summer School 2026.
+- Information Science & Engineering, NIE Mysuru.
 
 > `Think deeply. Engineer relentlessly. Ship fearlessly.`
 
 ---
 
-## ⚡ THE TECH ARSENAL
+## THE TECH ARSENAL
 
 <div align="center">
 
@@ -63,7 +63,7 @@
 
 ---
 
-## 🚀 PROJECTS FROM THE LAB
+## PROJECTS FROM THE LAB
 
 <div align="center">
 
@@ -75,7 +75,7 @@
 
 ---
 
-## 📊 GITHUB COMMAND CENTER
+## GITHUB COMMAND CENTER
 
 <div align="center">
 
@@ -87,40 +87,30 @@
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushal-Prakash&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/>
+</div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=kaushal-Prakash&theme=discord&no-frame=true&no-bg=true&row=1&column=6" width="100%"/>
+---
+
+## THE CONTRIBUTION SNAKE
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%">
+</p>
+
+---
+
+## CONTRIBUTION MATRIX
+
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/6C00FF/kaushal-Prakash" width="100%" alt="GitHub Contribution Calendar"/>
 
 </div>
 
 ---
 
-## 🐍 THE CONTRIBUTION SNAKE
-
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaushal-Prakash/kaushal-Prakash/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaushal-Prakash/kaushal-Prakash/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/kaushal-Prakash/kaushal-Prakash/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</p>
-
-
----
-
-## 📈 CONTRIBUTION MATRIX
-
-
-<p align="center">
-  <a href="https://github.com/kaushal-Prakash">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaushal-Prakash&theme=tokyo-night&hide_border=true&area=true" alt="Kaushal's GitHub Activity Graph" width="100%" />
-  </a>
-</p>
-
-
----
-
-## 🌌 THE DEVELOPER MINDSET
+## THE DEVELOPER MINDSET
 
 <div align="center">
 
